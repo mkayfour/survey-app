@@ -1,3 +1,4 @@
 node_modules
 dev.js
 .env
+/client/node_modules
